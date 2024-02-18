@@ -1,14 +1,14 @@
 # Capstone Project Module 3 - Bike Sharing
 ### **Bike Sharing (Capital Bikeshare)**
 
-![CAPITAL BIKESHARE LOGO](![2E-N0B6u_400x400](https://github.com/rzlrch/rzlrch-MkhairulrizalR-Capstone_Project3/assets/139743064/a59074a7-22d6-4caa-82e3-d5e8603e405a)
-)
+![2E-N0B6u_400x400](https://github.com/rzlrch/rzlrch-MkhairulrizalR-Capstone_Project3/assets/139743064/dc6e759d-cd0b-4693-b1e9-1ad96f9d0a58)
 
 ### **Contents**
 
 1. Business Problem Understanding
 2. Data Understanding
 3. Data Preprocessing
+
 4. Modeling
 5. Conclusion
 6. Recommendation
