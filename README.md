@@ -100,4 +100,4 @@ Pada tahap ini, kita akan melakukan cleaning pada data yang nantinya data yang s
 <br>
 <br>
 
-# Muha
+# Muhammad Khairulrizal Rachmatullah
