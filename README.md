@@ -1,7 +1,7 @@
 # Capstone Project Module 3 - Bike Sharing
 ### **Bike Sharing (Capital Bikeshare)**
 
-![CAPITAL BIKESHARE LOGO](https://user-images.githubusercontent.com/107845860/188307123-87e7eee9-0198-4ae1-87b6-58bb958680aa.png)
+![CAPITAL BIKESHARE LOGO]([https://user-images.githubusercontent.com/107845860/188307123-87e7eee9-0198-4ae1-87b6-58bb958680aa.png](https://pbs.twimg.com/profile_images/1600063239307550720/2E-N0B6u_400x400.jpg))
 
 ### **Contents**
 
